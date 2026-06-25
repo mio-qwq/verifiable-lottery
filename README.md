@@ -69,12 +69,4 @@ MIT License - 欢迎大家自由使用和改进
 Made with ❤️ for fair and transparent communities
 
 
-### 使用建议
-
-1. 把上面两个代码文件（`lottery.py` 和 `commit_seed.py`）一起上传
-2. 把这个 `README.md` 也放进去
-3. 在 GitHub 创建仓库时选择 **Public**（公开）
-4. 可以再加一个 `.gitignore` 文件忽略 `__pycache__` 等
-
----
 
