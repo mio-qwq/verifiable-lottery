@@ -68,7 +68,6 @@ MIT License - 欢迎大家自由使用和改进
 
 Made with ❤️ for fair and transparent communities
 
-text---
 
 ### 使用建议
 
